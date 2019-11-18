@@ -1,0 +1,16 @@
+korte,130
+barack,55
+dinnye,2015
+
+BadInput
+BadInput,
+,BadInput
+,15
+A,15,TooManyColumn
+A,15
+AB C,200
+ABC,-5
+ABC,0
+ABC,5005
+ABC,16
+szilva,130
